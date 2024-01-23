@@ -26,7 +26,7 @@ function App() {
       <Route path="/contact" element={<Contact/>}/>
       <Route path="/medellin" element={<Medellin/>}/>
       <Route path="/feria-de-las-flores" element={<FeriaDeLasFlores/>}/>
-      <Route path="/modelar-b" element={<ModularB/>}/>
+      <Route path="/modular-b" element={<ModularB/>}/>
       <Route path="/sepiensa" element={<Sepiensa/>}/>
       <Route path="/abholzung" element={<Abholzung/>}/>
       <Route path="/non-nocere" element={<NonNocere/>}/>
